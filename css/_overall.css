@@ -1,3 +1,15 @@
+main {
+    max-width: 1920px ;
+}
+
+
+
+
+
+
+
+
+
 a:hover {
     color: var(--red);
 }

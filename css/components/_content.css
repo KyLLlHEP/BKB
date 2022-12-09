@@ -1,0 +1,30 @@
+section {
+    
+   background-image: url(/img/main_pic.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 700px;
+   
+   
+
+}
+
+
+
+
+
+.text {
+    background-color: var(--green);
+    color:var(--white);
+    font-size: 16px;
+    padding: 16px 32px;
+    
+  }
+
+  p {
+    font-size: 2em;
+    color: var(--white);
+    text-align: center;
+    border: 1px solid gray;
+  }
