@@ -1,8 +1,15 @@
 @font-face {
-	font-family: 'RubikSprayPaint';
-	src: url('') format('woff2'),
-		url('/fonts/font-name.woff') format('woff');
+	font-family: 'Rubik';
+	src: url('/fonts/RubikSprayPaint-Regular.ttf') format('ttf');
 		font-display: swap;
-		font-weight: 500;
+		font-weight: 400;
+		font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lobster';
+	src: url('/fonts/Lobster-Regular.ttf') format('ttf');
+		font-display: swap;
+		font-weight: 400;
 		font-style: normal;
 }

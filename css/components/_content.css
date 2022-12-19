@@ -1,0 +1,57 @@
+.main__content {
+    
+    
+        
+}
+
+
+.quesions {
+    margin-top: 35px;
+    text-align: center;
+    color: var(--red);
+   
+}
+
+.container {
+ margin-top: 20px;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ color: var(--red);
+ 
+}
+.text {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    color: ;
+
+}
+ 
+ .addres {
+
+ }  
+
+ .address__title {
+    margin-bottom: 10px;
+ }
+
+   .mail {
+    color: blue;
+   }
+    .tel {
+        color: blue;
+    }
+
+   .contact__title {
+    margin-bottom: 10px;
+   }
+
+   .hours {
+    margin-top: 5px;
+    margin-bottom: 10px;
+   }
