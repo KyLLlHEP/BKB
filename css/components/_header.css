@@ -53,3 +53,31 @@
     background-color: green;
 }
 
+@media (max-width: 1200px) {
+    .logo {
+       display: none;
+    }
+
+    .nav {
+        grid-column: 1 / -1;
+    }
+
+  
+}
+
+@media (max-width: 650px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .text {
+        display: none;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
